@@ -30,7 +30,7 @@ colorTimeBlocks();
 
 //Create function for Save Button to save user input for each time block in local storage:
 $('#saveBtn').on('click', function() {
-    localStorage.setItem(' ')
+    localStorage.setItem()
 
 
 //})
