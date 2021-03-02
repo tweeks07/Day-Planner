@@ -2,29 +2,33 @@
 
 ## Task
 
-To create a simple calendar application that reflects the currebt date and allows a user to save events for each hour of the day.
+To create a simple calendar application that reflects the current date and allows a user to save events for each hour of the day.
 
 
-## Acceptance Criteria
+## Visual Functionality
 
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+Display of current date
+![](\Assets\workDayDate.png)
+
+Color block function to indicate past hour (gray), current hour (green) and future hour (red)
+![](\Assets\workDaycolor.png)
+
+
+
 
 ## Deployment
 
-* The URL of the [deployed] application
+* The URL of the [deployed](https://tweeks07.github.io/Day-Planner/) application
 
 * The URL of the GitHub [repository](https://github.com/tweeks07/Day-Planner), with a unique name and a README describing the project
+
+## Contact Info
+
+Taylor Weeks
+
+Email:  taylorlweeks707@gmail.com
+
+[Github](https://github.com/tweeks07)
+
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
