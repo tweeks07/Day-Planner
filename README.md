@@ -8,10 +8,10 @@ To create a simple calendar application that reflects the current date and allow
 ## Visual Functionality
 
 Display of current date
-![](\Assets\workDayDate.png)
+![Image](Assets\workDayDate.png)
 
 Color block function to indicate past hour (gray), current hour (green) and future hour (red)
-![](\Assets\workDaycolor.png)
+![Image](Assets\workDaycolor.png)
 
 
 ## Technologies & Skills Used
