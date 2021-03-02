@@ -8,19 +8,16 @@ To create a simple calendar application that reflects the current date and allow
 ## Visual Functionality
 
 Display of current date
-![image](Assets\workDayDate.png)
+![image](Assets/workDayDate.png)
 
-Color block function to indicate past hour (gray), current hour (green) and future hour (red)
-![image](Assets\workDaycolor.png)
+Color block function to indicate past hour, current hour and future hour
+![image](Assets/workDaycolor.png)
 
 
 ## Technologies & Skills Used
 ---
 
 [Moment.js](https://momentjs.com/)
-
-
-
 
 ## Deployment
 ---
